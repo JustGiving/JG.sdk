@@ -1,5 +1,5 @@
 {
-  "name": "JavaScript.Api.Sdk",
+  "name": "JG.JavaScript.Api.Sdk",
   "version": "1.0.0",
   "description": "Just Giving api SDK - using monads because they have to learn someday",
   "main": "src/index.js",
