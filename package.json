@@ -1,5 +1,5 @@
 {
-  "name": "jg.js.sdk",
+  "name": "JavaScript.Api.Sdk",
   "version": "1.0.0",
   "description": "Just Giving api SDK - using monads because they have to learn someday",
   "main": "src/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jwhiles/JG.sdk.git"
+    "url": "git+https://github.com/JustGiving/JavaScript.Api.Sdk.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jwhiles/JG.sdk/issues"
+    "url": "https://github.com/JustGiving/JavaScript.Api.Sdk/issues"
   },
-  "homepage": "https://github.com/Jwhiles/JG.sdk#readme",
+  "homepage": "https://github.com/JustGiving/JavaScript.Api.Sdk#readme",
   "dependencies": {
     "axios": "^0.16.2",
     "fluture": "^7.1.3"
