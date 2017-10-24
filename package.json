@@ -2,7 +2,7 @@
   "name": "jg.js.sdk",
   "version": "1.0.0",
   "description": "Just Giving api SDK - using monads because they have to learn someday",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
